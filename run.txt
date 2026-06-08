@@ -1,0 +1,9 @@
+Install python dependencies from requirements.txt
+------------------------------------------------------------------------------
+cd "c:\Softwares\AgenticAILearning" && pip install -r requirements.txt
+------------------------------------------------------------------------------
+
+Run the application
+--------------------------------------
+python app.py
+-------------------------------------
